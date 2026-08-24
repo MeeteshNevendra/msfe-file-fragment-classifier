@@ -134,12 +134,5 @@ outputs/experiment_01/
     ├── confusion_matrix.csv
     ├── per_class_metrics.csv
     └── test_predictions.csv
-```
 
-Large datasets, checkpoints, and output folders are ignored by Git by default. Keep only source code, documentation, and lightweight examples in the repository.
 
-## Documentation
-
-- [Approach](docs/approach.md)
-- [Dataset Format](docs/dataset_format.md)
-- [Reproducibility Notes](docs/reproducibility.md)
