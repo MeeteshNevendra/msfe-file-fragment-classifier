@@ -7,8 +7,6 @@ This repository contains a byte-level file fragment classifier built around a mu
 ```text
 msfe-file-fragment-classifier/
 ├── README.md
-├── requirements.txt
-├── pyproject.toml
 ├── data/
 │   └── README.md
 ├── docs/
